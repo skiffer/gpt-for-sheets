@@ -2,7 +2,7 @@
 
 To access the ChatGPT API and other OpenAI services, you need to create an OpenAI API key. This key allows OpenAI to monitor your usage and accurately bill you.
 
-## 1. Log in or Sign Up to the [OpenAI platform](https://platform.openai.com/account/api-keys){:target="_blank" rel="nofollow noopener noreferrer"}
+## 1. Log in or Sign Up to the [OpenAI platform](https://platform.openai.com/account/api-keys)
 
 ## 2. Generate a New Secret Key
 
@@ -10,7 +10,7 @@ To access the ChatGPT API and other OpenAI services, you need to create an OpenA
 
 ## 4. Install OpenAI for Google Sheets
 
-1. **Visit the [OpenAI for Sheets Add-On](https://workspace.google.com/marketplace/app/gpt_for_docs_sheets_forms_slides/466607203252){:target="_blank" rel="nofollow"} on the Google Workspace Marketplace.**
+1. **Visit the [OpenAI platform](https://platform.openai.com/account/api-keys) on the Google Workspace Marketplace.**
 2. **Click on "Install".**
 
 ## Tutorial GPT for Google Sheets
@@ -22,9 +22,7 @@ To access the ChatGPT API and other OpenAI services, you need to create an OpenA
 
 Navigate to **Extensions > GPT for Docs, Sheets, Forms, Slides > Launch**. Ensure no conflicting add-ons are installed.
 
-## 6. Ensure Subscription to the [Pro User Plan](https://docgpt.ai/gpt-for-sheets/){:target="_blank"}
-
-![subscription-pro-user.png]({{ site.baseurl }}/images/subscription-pro-user.png){: width="300"}
+## 6. Ensure Subscription to the [Pro User Plan](https://docgpt.ai/gpt-for-sheets/)
 
 ## 7. Refresh Account and Set Up OpenAI Key
 
