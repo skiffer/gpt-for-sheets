@@ -13,8 +13,8 @@ To access the ChatGPT API and other OpenAI services, you need to create an OpenA
 1. **Visit the [OpenAI for Sheets Add-On](https://workspace.google.com/marketplace/app/gpt_for_docs_sheets_forms_slides/466607203252){:target="_blank" rel="nofollow"} on the Google Workspace Marketplace.**
 2. **Click on "Install".**
 
-## Demo: OpenAI for Google Sheets
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Na-pVhwaq7s?si=-0DDzd5cyMg95s4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Tutorial GPT for Google Sheets
+[Tutorial GPT for Google Sheets](https://www.youtube.com/embed/Na-pVhwaq7s?si=-0DDzd5cyMg95s4A)
 
 ![created-api-key.png]({{ site.baseurl }}/images/created-api-key.png)
 
