@@ -2,6 +2,15 @@
 
 To access the ChatGPT API and other OpenAI services, you need to create an OpenAI API key. This key allows OpenAI to monitor your usage and accurately bill you.
 
+
+### Before
+1. **Visit the [GPT for Google Sheets Add-On](https://workspace.google.com/marketplace/app/gpt_for_docs_sheets_forms_slides/466607203252) on the Google Workspace Marketplace.**
+2. **Click on "Install".**
+3. <a href="/gpt-for-sheets/">Upgrade to Premium</a>
+4. Optional -> RECOMMENDATION: The best way to ensure optimal performance with Google Add-Ons is by using the Google Chrome browser. This helps bypass any potential issues that may arise from compatibility with other browsers.
+
+
+
 ## 1. Log in or Sign Up to the [OpenAI platform](https://platform.openai.com/account/api-keys)
 
 ## 2. Generate a New Secret Key
